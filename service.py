@@ -34,7 +34,8 @@ def get_entries():
 def get_entry(node, title_link_dict):
     entry = {kid.tag.lower().replace('-', '_'): kid.text.strip() for kid in node.getchildren() if
              kid.text and len(kid.text) > 0}
-    entry['url'] = title_link_dict[entry['title']]
+    stripped = entry['title'].replace(u"\xc2","")
+    entry['url'] = title_link_dict.get(stripped, None)
     entry['start_date'] = normalize_date(entry['start_date'])
     entry['end_date'] = normalize_date(entry['end_date'])
     venues = []
