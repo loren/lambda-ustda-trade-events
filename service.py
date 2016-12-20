@@ -4,6 +4,7 @@ import json
 import boto3
 import xml.etree.ElementTree as ET
 import datetime as dt
+import re
 
 XML_ENDPOINT = 'https://www.ustda.gov/api/events/xml'
 RSS_ENDPOINT = 'https://www.ustda.gov/events/feed'
@@ -34,8 +35,8 @@ def get_entries():
 def get_entry(node, title_link_dict):
     entry = {kid.tag.lower().replace('-', '_'): kid.text.strip() for kid in node.getchildren() if
              kid.text and len(kid.text) > 0}
-    stripped = entry['title'].replace(u"\xc2","")
-    entry['url'] = title_link_dict.get(stripped, None)
+    entry['title'] = re.sub(r'[^a-zA-Z -]+', '', entry['title'])
+    entry['url'] = title_link_dict.get(entry['title'], None)
     entry['start_date'] = normalize_date(entry['start_date'])
     entry['end_date'] = normalize_date(entry['end_date'])
     venues = []
