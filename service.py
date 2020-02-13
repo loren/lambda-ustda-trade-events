@@ -44,6 +44,14 @@ def get_entry(node, title_link_dict):
     entry["start_date"] = (
         normalize_date(entry["start_date"]) if "start_date" in entry else entry["end_date"]
     )
+    venues = get_venues(entry)
+    if venues:
+        entry["venues"] = venues
+    entry["source_industry"] = [entry.pop("industry")]
+    return entry
+
+
+def get_venues(entry):
     venues = []
     for x in range(1, 4):
         venue_val = entry.pop(f"venue_{x}", None)
@@ -54,10 +62,7 @@ def get_entry(node, title_link_dict):
                 "country_name": f"Missing Country: {venue_val}",
             }
             venues.append(venue)
-    if venues:
-        entry["venues"] = venues
-    entry["source_industry"] = [entry.pop("industry")]
-    return entry
+    return venues
 
 
 def normalize_date(entry_date):
