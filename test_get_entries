@@ -1,0 +1,567 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://www.ustda.gov/events/feed
+  response:
+    body:
+      string: "<?xml version=\"1.0\" encoding=\"utf-8\" ?><rss version=\"2.0\" xml:base=\"https://ustda.gov/events/feed\"
+        xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:atom=\"http://www.w3.org/2005/Atom\"
+        xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"
+        xmlns:og=\"http://ogp.me/ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"
+        xmlns:sioc=\"http://rdfs.org/sioc/ns#\" xmlns:sioct=\"http://rdfs.org/sioc/types#\"
+        xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\">\n
+        \ <channel>\n    <title>USTDA Events</title>\n    <link>https://ustda.gov/events/feed</link>\n
+        \   <description></description>\n    <language>en</language>\n     <atom:link
+        href=\"https://ustda.gov/events/feed\" rel=\"self\" type=\"application/rss+xml\"
+        />\n      <item>\n    <title>Egypt Advanced Technologies for Onshore Exploration
+        and Production Reverse Trade Mission</title>\n    <link>https://ustda.gov/events/2020/middle-east-north-africa-europe-and-eurasia/egypt-advanced-technologies-onshore</link>\n
+        \   <description>&lt;strong&gt;Event Date:&lt;/strong&gt; February 15, 2020
+        to February 28, 2020&lt;br&gt;\r\n&lt;strong&gt;Locations:&lt;/strong&gt;
+        \r\n&lt;p&gt;U.S. Trade and Development Agency (USTDA) is hosting the&amp;nbsp;&lt;strong&gt;Egypt
+        Advanced Technologies for Onshore Exploration and Production Reverse Trade
+        Mission&lt;/strong&gt;, bringing senior decision-makers from Egypt to the
+        United States to meet with leading U.S. suppliers of oil and gas exploration
+        and production technologies. &amp;nbsp;The delegation will include high-ranking
+        officials from Egypt\u2019s Ministry of Petroleum and Mineral Resources and
+        state-owned enterprises in the petroleum sector.&lt;/p&gt;\n\n&lt;p&gt;As
+        part of the itinerary, USTDA will host a &lt;a href=&quot;https://ustda.gov/events/2020/middle-east-north-africa-europe-and-eurasia/business-briefing-egypt-advanced&quot;&gt;business
+        briefing&lt;/a&gt; for U.S. companies to learn about upcoming project opportunities
+        on February 20&lt;sup&gt;th&lt;/sup&gt; in Houston, Texas. .U.S. companies
+        will showcase their technologies and expertise to the delegation as Egypt
+        moves forward on its plans to modernize its oil and gas sector.&amp;nbsp;&lt;/p&gt;\n\n&lt;p&gt;Koeppen,
+        Elliott &amp;amp; Associates, Ltd. is organizing this visit on behalf of USTDA.&amp;nbsp;
+        For further information regarding registration and/or to arrange for a private
+        meeting with the delegation, please contact &amp;nbsp;David Elliott, &lt;a
+        href=&quot;mailto:davidelliot@kealtd.com&quot;&gt;davidelliott@kealtd.com&lt;/a&gt;;
+        or by text or phone at (757) 342-2149.&amp;nbsp;&lt;/p&gt;\n\n&lt;p&gt;Click
+        &lt;a href=&quot;https://ustda.gov/sites/default/files/Egypt%20Advanced%20Technologies%20RTM%20-%20BB_Flyer%20FINAL.pdf&quot;&gt;here&lt;/a&gt;
+        for the event flyer.&amp;nbsp;&lt;/p&gt;\n</description>\n     <pubDate>Friday,
+        January 3, 2020 - 12:11</pubDate>\n <dc:creator>USTDA</dc:creator>\n <guid
+        isPermaLink=\"false\">2424</guid>\n  </item>\n  <item>\n    <title>Business
+        Briefing: Egypt Advanced Technologies for Onshore Exploration and Production</title>\n
+        \   <link>https://ustda.gov/events/2020/middle-east-north-africa-europe-and-eurasia/business-briefing-egypt-advanced</link>\n
+        \   <description>&lt;strong&gt;Event Date:&lt;/strong&gt; February 20, 2020&lt;br&gt;\r\n&lt;strong&gt;Locations:&lt;/strong&gt;
+        \r\n&lt;p&gt;As part of the &lt;strong&gt;&lt;a href=&quot;https://ustda.gov/events/2020/middle-east-north-africa-europe-and-eurasia/egypt-advanced-technologies-onshore&quot;&gt;Egypt
+        Advanced Technologies for Onshore Exploration and Production&lt;/a&gt;&lt;strong&gt;&lt;a
+        href=&quot;https://ustda.gov/events/2020/middle-east-north-africa-europe-and-eurasia/egypt-advanced-technologies-onshore&quot;&gt;
+        Reverse Trade Mission&lt;/a&gt;,&lt;/strong&gt;&lt;/strong&gt; USTDA is hosting
+        a business briefing for U.S. companies to meet with decision-makers from Egypt\u2019s
+        Ministry of Petroleum and Mineral Resources and state-owned enterprises in
+        the petroleum sector.&amp;nbsp; The event will allow U.S. company participants
+        to meet one-on-one with delegates to showcase their company\u2019s technologies
+        and expertise in the oil and gas exploration and production sector. Registration
+        is required.&lt;/p&gt;\n\n&lt;p&gt;Koeppen, Elliott &amp;amp; Associates,
+        Ltd. is organizing this visit on behalf of USTDA.&amp;nbsp; For further information
+        regarding registration and/or to schedule a one-on-one meeting with the delegates,
+        please contact KEA by email at &lt;a href=&quot;mailto:davidelliot@kealtd.com&quot;&gt;davidelliott@kealtd.com&lt;/a&gt;;
+        or by text or phone at (757) 342-2149.&amp;nbsp;&lt;/p&gt;\n\n&lt;p&gt;Click
+        &lt;a href=&quot;https://ustda.gov/sites/default/files/Egypt%20Advanced%20Technologies%20RTM%20-%20BB_Flyer%20FINAL.pdf&quot;&gt;here&lt;/a&gt;
+        for the event flyer.&amp;nbsp;&lt;/p&gt;\n</description>\n     <pubDate>Friday,
+        January 3, 2020 - 12:12</pubDate>\n <dc:creator>USTDA</dc:creator>\n <guid
+        isPermaLink=\"false\">2425</guid>\n  </item>\n  <item>\n    <title>Reverse
+        Trade Mission: Latin America Subsea Fiber Optic Cable </title>\n    <link>https://ustda.gov/events/2020/latin-america-and-caribbean/reverse-trade-mission-latin-america-subsea-fiber-optic-cable</link>\n
+        \   <description>&lt;strong&gt;Event Date:&lt;/strong&gt; March 01, 2020 to
+        March 10, 2020&lt;br&gt;\r\n&lt;strong&gt;Locations:&lt;/strong&gt; \r\n&lt;p&gt;The
+        U.S. Trade and Development Agency is hosting the Latin America Subsea Fiber
+        Optic Cable Reverse Trade Mission from March 1-10, 2020. The purpose of the
+        visit is to familiarize Argentine, Chilean and Ecuadorian telecommunications
+        representatives with U.S. subsea and land-based fiber optic cable technologies
+        and related infrastructure solutions to support upcoming subsea fiber optic
+        cable, broadband and other ICT projects. The visit&#039;s itinerary includes
+        meetings and site visits in the Washington, DC and New York metropolitan areas
+        with subsea cable providers, developers, U.S. government organizations, regulators,
+        financing organizations, industry associations, and U.S. technology and equipment
+        providers. The visit will highlight U.S. best practices in cable system design,
+        manufacturing, installation, and regulation as well as the technologies, services,
+        and financing mechanisms to support subsea cable project development and implementation.
+        Other key areas of interest include 5G technologies, data centers, and cybersecurity
+        technologies.&lt;/p&gt;\n\n&lt;p&gt;Tuatara Group (tuataragroup.com) is organizing
+        this visit on behalf of USTDA. For further information, please contact Pamela
+        Peseux by email at &lt;a href=&quot;mailto:peseux@tuataragroup.com&quot;&gt;peseux@tuataragroup.com&lt;/a&gt;
+        or by phone at +1 (301) 335-1725.&lt;/p&gt;\n</description>\n     <pubDate>Thursday,
+        February 13, 2020 - 11:46</pubDate>\n <dc:creator>USTDA</dc:creator>\n <guid
+        isPermaLink=\"false\">2476</guid>\n  </item>\n  <item>\n    <title> Pakistan
+        LNG Supply and Natural Gas Infrastructure Reverse Trade Mission</title>\n
+        \   <link>https://ustda.gov/events/2020/south-and-southeast-asia/pakistan-lng-supply-and-natural-gas-infrastructure-reverse</link>\n
+        \   <description>&lt;strong&gt;Event Date:&lt;/strong&gt; March 01, 2020 to
+        March 13, 2020&lt;br&gt;\r\n&lt;strong&gt;Locations:&lt;/strong&gt; \r\n&lt;p&gt;U.S.
+        Trade and Development Agency (USTDA) is hosting the Pakistan LNG Supply and
+        Natural Gas Infrastructure Reverse Mission, bringing senior decision-makers
+        from Pakistan to the United States to meet with leading U.S. suppliers of
+        LNG and related equipment and services.&amp;nbsp; The delegation will include
+        high-ranking officials from Pakistan\u2019s Ministry of Energy, Ministry of
+        Maritime Affairs, regulatory authorities and state-owned enterprises in the
+        LNG sector.&lt;/p&gt;\n\n&lt;p&gt;As part of the itinerary, USTDA will host
+        a Business Briefing for U.S. companies to learn about upcoming project opportunities
+        on March 3rd in Houston, Texas. U.S. companies will showcase their technologies
+        and expertise to the delegation as Pakistan plans to expand its LNG infrastructure.&lt;/p&gt;\n\n&lt;p&gt;Global
+        Marketing &amp;amp; Communications is organizing this visit on behalf of USTDA.&amp;nbsp;
+        For further information regarding registration and/or to arrange for a private
+        meeting with the delegation, please contact Olympia Brescia, &lt;a href=&quot;mailto:obrescia@gmc-ideas.com&quot;&gt;obrescia@gmc-ideas.com&lt;/a&gt;;
+        or by phone at (781) 641-2900.&lt;/p&gt;\n</description>\n     <pubDate>Tuesday,
+        February 11, 2020 - 15:26</pubDate>\n <dc:creator>USTDA</dc:creator>\n <guid
+        isPermaLink=\"false\">2472</guid>\n  </item>\n  <item>\n    <title>Business
+        Briefing: Pakistan LNG Supply and Natural Gas Infrastructure </title>\n    <link>https://ustda.gov/events/2020/south-and-southeast-asia/business-briefing-pakistan-lng-supply-and-natural-gas</link>\n
+        \   <description>&lt;strong&gt;Event Date:&lt;/strong&gt; March 03, 2020&lt;br&gt;\r\n&lt;strong&gt;Locations:&lt;/strong&gt;
+        \r\n&lt;p&gt;As part of the Pakistan LNG Supply and Natural Gas Infrastructure
+        Reverse Trade Mission, USTDA is hosting a Business Briefing for U.S. companies
+        to meet with decision-makers from Pakistan\u2019s Ministry of Energy, Ministry
+        of Maritime Affairs, regulatory authorities and state-owned enterprises in
+        the LNG sector.&amp;nbsp; The event will allow U.S. company participants to
+        meet one-on-one with delegates to showcase their company\u2019s technologies
+        and expertise in the LNG sector. Registration is required.&lt;/p&gt;\n\n&lt;p&gt;Global
+        Marketing &amp;amp; Communications is organizing this visit on behalf of USTDA.&amp;nbsp;
+        For further information regarding registration and/or to schedule a one-on-one
+        meeting with the delegates, please contact Olympia Brescia, &lt;a href=&quot;mailto:obrescia@gmc-ideas.com&quot;&gt;obrescia@gmc-ideas.com&lt;/a&gt;;
+        or by phone at (781) 641-2900.&lt;/p&gt;\n</description>\n     <pubDate>Tuesday,
+        February 11, 2020 - 15:27</pubDate>\n <dc:creator>USTDA</dc:creator>\n <guid
+        isPermaLink=\"false\">2473</guid>\n  </item>\n  <item>\n    <title>Business
+        Briefing:  Opportunities in Latin American Subsea Cable and ICT Projects  </title>\n
+        \   <link>https://ustda.gov/events/2020/latin-america-and-caribbean/business-briefing-opportunities-latin-american-subsea-cable</link>\n
+        \   <description>&lt;strong&gt;Event Date:&lt;/strong&gt; March 04, 2020&lt;br&gt;\r\n&lt;strong&gt;Locations:&lt;/strong&gt;
+        \r\n&lt;p&gt;As part of the Latin America Subsea Fiber Optic Cable Reverse
+        Trade Mission, the U.S. Trade and Development Agency is hosting a Business
+        Briefing for U.S. companies on Wednesday, March 4, 2020 at 9:00 AM at USTDA&#039;s
+        Business Center in Arlington, VA. The Briefing will connect U.S. companies
+        with decision-makers from Chile, Argentina and Ecuador. Attending U.S. companies
+        will learn about upcoming subsea cable and other information, communications
+        and technology (ICT) project opportunities in Chile, Argentina, and Ecuador
+        and have the opportunity to meet one-on-one with the participating decision-makers,
+        including representatives from Chile\u2019s Undersecretariat of Telecommunications
+        (Subtel). Areas of interest include cable system design, manufacturing, installation,
+        and regulation as well as the technologies, services, and financing mechanisms
+        to support project development and implementation. Other key areas of interest
+        include 5G technologies, data centers, and cybersecurity technologies.&lt;/p&gt;\n\n&lt;p&gt;Tuatara
+        Group (tuataragroup.com) is organizing this event on behalf of USTDA. For
+        further information, please contact Pamela Peseux by email at &lt;a href=&quot;mailto:peseux@tuataragroup.com&quot;&gt;peseux@tuataragroup.com&lt;/a&gt;
+        or by phone at +1 (301) 335-1725.&lt;/p&gt;\n</description>\n     <pubDate>Thursday,
+        February 13, 2020 - 11:48</pubDate>\n <dc:creator>USTDA</dc:creator>\n <guid
+        isPermaLink=\"false\">2477</guid>\n  </item>\n  <item>\n    <title>Access
+        Africa Reverse Trade Mission on Digital Infrastructure</title>\n    <link>https://ustda.gov/events/2020/sub-saharan-africa/access-africa-reverse-trade-mission-digital-infrastructure</link>\n
+        \   <description>&lt;strong&gt;Event Date:&lt;/strong&gt; March 14, 2020 to
+        March 21, 2020&lt;br&gt;\r\n&lt;strong&gt;Locations:&lt;/strong&gt; \r\n&lt;p&gt;USTDA
+        is hosting a delegation from South Africa, Ethiopia, and Kenya to convene
+        leading U.S. providers of technologies and services that can facilitate digital
+        infrastructure development in these three countries. The visit will familiarize
+        representatives from both public and private sectors with the latest U.S.
+        innovations and services in the ICT sector.&lt;/p&gt;\n\n&lt;p&gt;The visit
+        will provide excellent opportunities for U.S. companies and&amp;nbsp;&lt;em&gt;Access
+        Africa&lt;/em&gt;&amp;nbsp;partners to meet with delegates, showcase their
+        technologies and solutions, and learn more about project opportunities in
+        South Africa, Ethiopia, and Kenya. As part of the itinerary, USTDA will also
+        host a &lt;a href=&quot;https://ustda.gov/events/2020/sub-saharan-africa/business-briefing-access-africa-reverse-trade-mission-digital&quot;&gt;business
+        briefing&lt;/a&gt; in Washington, D.C. on Tuesday, March 17&lt;sup&gt;th&lt;/sup&gt;.&lt;/p&gt;\n\n&lt;p&gt;The
+        Business Council for International Understanding (BCIU) is organizing the
+        event on behalf of USTDA. For more information about how your company can
+        participate, please contact Lauren Krauth at&amp;nbsp;&lt;a href=&quot;mailto:lkrauth@bciu.org&quot;
+        target=&quot;_blank&quot;&gt;lkrauth@bciu.org&lt;/a&gt;.&lt;/p&gt;\n</description>\n
+        \    <pubDate>Tuesday, February 4, 2020 - 12:07</pubDate>\n <dc:creator>USTDA</dc:creator>\n
+        <guid isPermaLink=\"false\">2468</guid>\n  </item>\n  <item>\n    <title>Reverse
+        Trade Mission: West Africa Customs Modernization and Trade Facilitation </title>\n
+        \   <link>https://ustda.gov/events/2020/sub-saharan-africa/reverse-trade-mission-west-africa-customs-modernization-and-trade</link>\n
+        \   <description>&lt;strong&gt;Event Date:&lt;/strong&gt; March 14, 2020 to
+        March 25, 2020&lt;br&gt;\r\n&lt;strong&gt;Locations:&lt;/strong&gt; \r\n&lt;p&gt;USTDA
+        is hosting delegations from Nigeria, Ghana and Cote d\u2019Ivoire to meet
+        with leading U.S. providers that can facilitate customs technology and best
+        practices in these countries. The visit will also familiarize representatives
+        from customs, port and aviation authorities with the latest U.S. innovations
+        and services in the customs sector. The visit further supports the 2017 Security
+        Government Initiative Joint Country Action Plan currently underway by the
+        U.S. Customs and Border Protection in Ghana.&amp;nbsp;&lt;/p&gt;\n\n&lt;p&gt;U.S.
+        companies will also have opportunities to meet with delegates, showcase their
+        technologies and solutions, and learn more about project opportunities in
+        Nigeria, Ghana and Cote d\u2019Ivoire. As part of the itinerary, USTDA will
+        host a business briefing in Washington, D.C. on Wednesday, March 18&lt;sup&gt;th&lt;/sup&gt;.&lt;/p&gt;\n\n&lt;p&gt;Futron
+        Aviation is organizing the event on behalf of USTDA. For more information
+        about how your company can participate, please contact Ed Shea at&amp;nbsp;&lt;a
+        href=&quot;mailto:eshea@futronaviation.com&quot;&gt;eshea@futronaviation.com&lt;/a&gt;.&lt;/p&gt;\n</description>\n
+        \    <pubDate>Thursday, February 13, 2020 - 13:58</pubDate>\n <dc:creator>USTDA</dc:creator>\n
+        <guid isPermaLink=\"false\">2478</guid>\n  </item>\n  <item>\n    <title>Business
+        Briefing: Access Africa Reverse Trade Mission on Digital Infrastructure</title>\n
+        \   <link>https://ustda.gov/events/2020/sub-saharan-africa/business-briefing-access-africa-reverse-trade-mission-digital</link>\n
+        \   <description>&lt;strong&gt;Event Date:&lt;/strong&gt; March 17, 2020&lt;br&gt;\r\n&lt;strong&gt;Locations:&lt;/strong&gt;
+        \r\n&lt;p&gt;As part of the &lt;em&gt;Access Africa &lt;/em&gt;Reverse Trade
+        Mission on Digital Infrastructure, USTDA is hosting a business briefing for
+        U.S. companies to meet with decision-makers from the ICT sector in Ethiopia,
+        Kenya, and South Africa. The event will allow U.S. company participants to
+        meet one-on-one with delegates to showcase their company\u2019s technologies
+        and expertise in digital infrastructure and learn about upcoming ICT opportunities
+        in these markets. Registration is required.&lt;/p&gt;\n\n&lt;p&gt;BCIU is
+        organizing this visit on behalf of USTDA.&amp;nbsp; For further information
+        regarding registration, please contact Julie Hanash via email at &lt;a href=&quot;mailto:jhanash@bciu.org&quot;&gt;jhanash@bciu.org&lt;/a&gt;
+        or via phone at (212) 490-0460.&lt;/p&gt;\n</description>\n     <pubDate>Thursday,
+        February 13, 2020 - 16:55</pubDate>\n <dc:creator>USTDA</dc:creator>\n <guid
+        isPermaLink=\"false\">2481</guid>\n  </item>\n  <item>\n    <title>Business
+        Briefing: West Africa Customs Modernization and Trade Facilitation</title>\n
+        \   <link>https://ustda.gov/events/2020/sub-saharan-africa/business-briefing-west-africa-customs-modernization-and-trade</link>\n
+        \   <description>&lt;strong&gt;Event Date:&lt;/strong&gt; March 18, 2020&lt;br&gt;\r\n&lt;strong&gt;Locations:&lt;/strong&gt;
+        \r\n&lt;p&gt;As part of the&amp;nbsp;&lt;strong&gt;West Africa Customs Modernization
+        and Trade Facilitation Reverse Trade Mission&lt;strong&gt;,&lt;/strong&gt;&lt;/strong&gt;&amp;nbsp;USTDA
+        is hosting a Business Briefing for U.S. companies to meet with decision-makers
+        from Nigeria, Ghana, and Cote d\u2019Ivoire\u2019s customs, port and aviation
+        authorities.&amp;nbsp;The event will allow U.S. company participants to meet
+        one-on-one with delegates to showcase their company\u2019s technologies and
+        expertise in the customs sector. Registration is required.&lt;/p&gt;\n\n&lt;p&gt;Futron
+        Aviation is organizing the event on behalf of USTDA. For more information
+        about how your company can participate, please contact Ed Shea at&amp;nbsp;&lt;a
+        href=&quot;mailto:eshea@futronaviation.com&quot;&gt;eshea@futronaviation.com&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;Click
+        &lt;a href=&quot;https://ustda.gov/sites/default/files/WABB.NewTemplate%20%28002%29.pdf&quot;&gt;here&lt;/a&gt;&amp;nbsp;for
+        the event flyer and &lt;a href=&quot;https://westafrica.planningpod.com/&quot;&gt;here&lt;/a&gt;
+        to register.&amp;nbsp;&lt;/p&gt;\n</description>\n     <pubDate>Thursday,
+        February 13, 2020 - 14:03</pubDate>\n <dc:creator>USTDA</dc:creator>\n <guid
+        isPermaLink=\"false\">2480</guid>\n  </item>\n  </channel>\n</rss>\n"
+    headers:
+      Cache-Control:
+      - no-cache, must-revalidate
+      Connection:
+      - Keep-Alive
+      Content-Language:
+      - en
+      Content-Type:
+      - application/rss+xml; charset=utf-8
+      Date:
+      - Thu, 13 Feb 2020 22:37:54 GMT
+      Expires:
+      - Sun, 19 Nov 1978 05:00:00 GMT
+      Keep-Alive:
+      - timeout=15, max=100
+      P3P:
+      - CP="CAO DSP CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi HISa OUR IND PHY ONL UNI
+        COM NAV INT CNT STA LOC GOV"
+      Server:
+      - Apache
+      Strict-Transport-Security:
+      - max-age=31536000
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Host
+      X-Content-Type-Options:
+      - nosniff
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.22.0
+    method: GET
+    uri: https://www.ustda.gov/api/events/xml
+  response:
+    body:
+      string: "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n<nodes>\n  <node>\n    <Title>Egypt
+        Advanced Technologies for Onshore Exploration and Production Reverse Trade
+        Mission</Title>\n    <Start-Date>02/15/2020</Start-Date>\n    <End-Date>02/28/2020</End-Date>\n
+        \   <Start-Time>12:09 pm</Start-Time>\n    <End-Time>12:09 pm</End-Time>\n
+        \   <Registration-Link></Registration-Link>\n    <Learn-More-URL></Learn-More-URL>\n
+        \   <Industry>Traditional Energy &amp; Power</Industry>\n    <Body>U.S. Trade
+        and Development Agency (USTDA) is hosting the Egypt Advanced Technologies
+        for Onshore Exploration and Production Reverse Trade Mission, bringing senior
+        decision-makers from Egypt to the United States to meet with leading U.S.
+        suppliers of oil and gas exploration and production technologies.  The delegation
+        will include high-ranking officials from Egypt\u2019s Ministry of Petroleum
+        and Mineral Resources and state-owned enterprises in the petroleum sector.\r\n\r\nAs
+        part of the itinerary, USTDA will host a business briefing for U.S. companies
+        to learn about upcoming project opportunities on February 20th in Houston,
+        Texas. .U.S. companies will showcase their technologies and expertise to the
+        delegation as Egypt moves forward on its plans to modernize its oil and gas
+        sector. \r\n\r\nKoeppen, Elliott &amp; Associates, Ltd. is organizing this
+        visit on behalf of USTDA.  For further information regarding registration
+        and/or to arrange for a private meeting with the delegation, please contact
+        \ David Elliott, davidelliott@kealtd.com; or by text or phone at (757) 342-2149.
+        \r\n\r\nClick here for the event flyer. \r\n</Body>\n    <Venue-1>Houston,
+        TX</Venue-1>\n    <City-1></City-1>\n    <State-1></State-1>\n    <Zip-1></Zip-1>\n
+        \   <Country-1></Country-1>\n    <Venue-2>San Francisco, CA</Venue-2>\n    <City-2></City-2>\n
+        \   <State-2></State-2>\n    <Zip-2></Zip-2>\n    <Country-2></Country-2>\n
+        \   <Venue-3></Venue-3>\n    <City-3></City-3>\n    <State-3></State-3>\n
+        \   <Zip-3></Zip-3>\n    <Country-3></Country-3>\n    <Registration-Title>Egypt
+        Advanced Technologies for Onshore Exploration and Production Reverse Trade
+        Mission</Registration-Title>\n    <Cost-></Cost->\n    <Cost-Currency>USD</Cost-Currency>\n
+        \   <First-Name></First-Name>\n    <Last-Name></Last-Name>\n    <Post></Post>\n
+        \   <Person-Title></Person-Title>\n    <Phone></Phone>\n    <Email></Email>\n
+        \ </node>\n  <node>\n    <Title>Business Briefing: Egypt Advanced Technologies
+        for Onshore Exploration and Production</Title>\n    <Start-Date>02/20/2020</Start-Date>\n
+        \   <End-Date>02/20/2020</End-Date>\n    <Start-Time>12:12 pm</Start-Time>\n
+        \   <End-Time>12:12 pm</End-Time>\n    <Registration-Link></Registration-Link>\n
+        \   <Learn-More-URL></Learn-More-URL>\n    <Industry>Traditional Energy &amp;
+        Power</Industry>\n    <Body>As part of the Egypt Advanced Technologies for
+        Onshore Exploration and Production Reverse Trade Mission, USTDA is hosting
+        a business briefing for U.S. companies to meet with decision-makers from Egypt\u2019s
+        Ministry of Petroleum and Mineral Resources and state-owned enterprises in
+        the petroleum sector.  The event will allow U.S. company participants to meet
+        one-on-one with delegates to showcase their company\u2019s technologies and
+        expertise in the oil and gas exploration and production sector. Registration
+        is required.\r\n\r\nKoeppen, Elliott &amp; Associates, Ltd. is organizing
+        this visit on behalf of USTDA.  For further information regarding registration
+        and/or to schedule a one-on-one meeting with the delegates, please contact
+        KEA by email at davidelliott@kealtd.com; or by text or phone at (757) 342-2149.
+        \r\n\r\nClick here for the event flyer. \r\n</Body>\n    <Venue-1>Houston,
+        TX</Venue-1>\n    <City-1></City-1>\n    <State-1></State-1>\n    <Zip-1></Zip-1>\n
+        \   <Country-1></Country-1>\n    <Venue-2></Venue-2>\n    <City-2></City-2>\n
+        \   <State-2></State-2>\n    <Zip-2></Zip-2>\n    <Country-2></Country-2>\n
+        \   <Venue-3></Venue-3>\n    <City-3></City-3>\n    <State-3></State-3>\n
+        \   <Zip-3></Zip-3>\n    <Country-3></Country-3>\n    <Registration-Title>Business
+        Briefing: Egypt Advanced Technologies for Onshore Exploration and Production</Registration-Title>\n
+        \   <Cost-></Cost->\n    <Cost-Currency>USD</Cost-Currency>\n    <First-Name></First-Name>\n
+        \   <Last-Name></Last-Name>\n    <Post></Post>\n    <Person-Title></Person-Title>\n
+        \   <Phone></Phone>\n    <Email></Email>\n  </node>\n  <node>\n    <Title>
+        Pakistan LNG Supply and Natural Gas Infrastructure Reverse Trade Mission</Title>\n
+        \   <Start-Date>03/01/2020</Start-Date>\n    <End-Date>03/13/2020</End-Date>\n
+        \   <Start-Time>3:19 pm</Start-Time>\n    <End-Time>3:19 pm</End-Time>\n    <Registration-Link></Registration-Link>\n
+        \   <Learn-More-URL></Learn-More-URL>\n    <Industry>Gas Initiative, Traditional
+        Energy &amp; Power</Industry>\n    <Body>U.S. Trade and Development Agency
+        (USTDA) is hosting the Pakistan LNG Supply and Natural Gas Infrastructure
+        Reverse Mission, bringing senior decision-makers from Pakistan to the United
+        States to meet with leading U.S. suppliers of LNG and related equipment and
+        services.  The delegation will include high-ranking officials from Pakistan\u2019s
+        Ministry of Energy, Ministry of Maritime Affairs, regulatory authorities and
+        state-owned enterprises in the LNG sector.\r\n\r\nAs part of the itinerary,
+        USTDA will host a Business Briefing for U.S. companies to learn about upcoming
+        project opportunities on March 3rd in Houston, Texas. U.S. companies will
+        showcase their technologies and expertise to the delegation as Pakistan plans
+        to expand its LNG infrastructure.\r\n\r\nGlobal Marketing &amp; Communications
+        is organizing this visit on behalf of USTDA.  For further information regarding
+        registration and/or to arrange for a private meeting with the delegation,
+        please contact Olympia Brescia, obrescia@gmc-ideas.com; or by phone at (781)
+        641-2900.\r\n</Body>\n    <Venue-1>Houston, TX</Venue-1>\n    <City-1></City-1>\n
+        \   <State-1></State-1>\n    <Zip-1></Zip-1>\n    <Country-1></Country-1>\n
+        \   <Venue-2></Venue-2>\n    <City-2></City-2>\n    <State-2></State-2>\n
+        \   <Zip-2></Zip-2>\n    <Country-2></Country-2>\n    <Venue-3></Venue-3>\n
+        \   <City-3></City-3>\n    <State-3></State-3>\n    <Zip-3></Zip-3>\n    <Country-3></Country-3>\n
+        \   <Registration-Title> Pakistan LNG Supply and Natural Gas Infrastructure
+        Reverse Trade Mission</Registration-Title>\n    <Cost-></Cost->\n    <Cost-Currency>USD</Cost-Currency>\n
+        \   <First-Name></First-Name>\n    <Last-Name></Last-Name>\n    <Post></Post>\n
+        \   <Person-Title></Person-Title>\n    <Phone></Phone>\n    <Email></Email>\n
+        \ </node>\n  <node>\n    <Title>Reverse Trade Mission: Latin America Subsea
+        Fiber Optic Cable </Title>\n    <Start-Date>03/01/2020</Start-Date>\n    <End-Date>03/10/2020</End-Date>\n
+        \   <Start-Time>11:45 am</Start-Time>\n    <End-Time>11:45 am</End-Time>\n
+        \   <Registration-Link></Registration-Link>\n    <Learn-More-URL></Learn-More-URL>\n
+        \   <Industry>Telecommunications</Industry>\n    <Body>The U.S. Trade and
+        Development Agency is hosting the Latin America Subsea Fiber Optic Cable Reverse
+        Trade Mission from March 1-10, 2020. The purpose of the visit is to familiarize
+        Argentine, Chilean and Ecuadorian telecommunications representatives with
+        U.S. subsea and land-based fiber optic cable technologies and related infrastructure
+        solutions to support upcoming subsea fiber optic cable, broadband and other
+        ICT projects. The visit's itinerary includes meetings and site visits in the
+        Washington, DC and New York metropolitan areas with subsea cable providers,
+        developers, U.S. government organizations, regulators, financing organizations,
+        industry associations, and U.S. technology and equipment providers. The visit
+        will highlight U.S. best practices in cable system design, manufacturing,
+        installation, and regulation as well as the technologies, services, and financing
+        mechanisms to support subsea cable project development and implementation.
+        Other key areas of interest include 5G technologies, data centers, and cybersecurity
+        technologies.\r\n\r\nTuatara Group (tuataragroup.com) is organizing this visit
+        on behalf of USTDA. For further information, please contact Pamela Peseux
+        by email at peseux@tuataragroup.com or by phone at +1 (301) 335-1725.\r\n</Body>\n
+        \   <Venue-1>Washington, D.C.</Venue-1>\n    <City-1></City-1>\n    <State-1></State-1>\n
+        \   <Zip-1></Zip-1>\n    <Country-1></Country-1>\n    <Venue-2>New York Metropolitan
+        Area</Venue-2>\n    <City-2></City-2>\n    <State-2></State-2>\n    <Zip-2></Zip-2>\n
+        \   <Country-2></Country-2>\n    <Venue-3></Venue-3>\n    <City-3></City-3>\n
+        \   <State-3></State-3>\n    <Zip-3></Zip-3>\n    <Country-3></Country-3>\n
+        \   <Registration-Title>Reverse Trade Mission: Latin America Subsea Fiber
+        Optic Cable </Registration-Title>\n    <Cost-></Cost->\n    <Cost-Currency>USD</Cost-Currency>\n
+        \   <First-Name></First-Name>\n    <Last-Name></Last-Name>\n    <Post></Post>\n
+        \   <Person-Title></Person-Title>\n    <Phone></Phone>\n    <Email></Email>\n
+        \ </node>\n  <node>\n    <Title>Business Briefing: Pakistan LNG Supply and
+        Natural Gas Infrastructure </Title>\n    <Start-Date></Start-Date>\n    <End-Date>03/03/2020</End-Date>\n
+        \   <Start-Time>3:26 pm</Start-Time>\n    <End-Time>3:26 pm</End-Time>\n    <Registration-Link></Registration-Link>\n
+        \   <Learn-More-URL></Learn-More-URL>\n    <Industry>Gas Initiative, Traditional
+        Energy &amp; Power</Industry>\n    <Body>As part of the Pakistan LNG Supply
+        and Natural Gas Infrastructure Reverse Trade Mission, USTDA is hosting a Business
+        Briefing for U.S. companies to meet with decision-makers from Pakistan\u2019s
+        Ministry of Energy, Ministry of Maritime Affairs, regulatory authorities and
+        state-owned enterprises in the LNG sector.  The event will allow U.S. company
+        participants to meet one-on-one with delegates to showcase their company\u2019s
+        technologies and expertise in the LNG sector. Registration is required.\r\n\r\nGlobal
+        Marketing &amp; Communications is organizing this visit on behalf of USTDA.
+        \ For further information regarding registration and/or to schedule a one-on-one
+        meeting with the delegates, please contact Olympia Brescia, obrescia@gmc-ideas.com;
+        or by phone at (781) 641-2900.\r\n</Body>\n    <Venue-1>Houston, TX</Venue-1>\n
+        \   <City-1></City-1>\n    <State-1></State-1>\n    <Zip-1></Zip-1>\n    <Country-1></Country-1>\n
+        \   <Venue-2></Venue-2>\n    <City-2></City-2>\n    <State-2></State-2>\n
+        \   <Zip-2></Zip-2>\n    <Country-2></Country-2>\n    <Venue-3></Venue-3>\n
+        \   <City-3></City-3>\n    <State-3></State-3>\n    <Zip-3></Zip-3>\n    <Country-3></Country-3>\n
+        \   <Registration-Title>Business Briefing: Pakistan LNG Supply and Natural
+        Gas Infrastructure </Registration-Title>\n    <Cost-></Cost->\n    <Cost-Currency>USD</Cost-Currency>\n
+        \   <First-Name></First-Name>\n    <Last-Name></Last-Name>\n    <Post></Post>\n
+        \   <Person-Title></Person-Title>\n    <Phone></Phone>\n    <Email></Email>\n
+        \ </node>\n  <node>\n    <Title>Business Briefing:  Opportunities in Latin
+        American Subsea Cable and ICT Projects  </Title>\n    <Start-Date>03/04/2020</Start-Date>\n
+        \   <End-Date>03/04/2020</End-Date>\n    <Start-Time>9:00 am</Start-Time>\n
+        \   <End-Time></End-Time>\n    <Registration-Link></Registration-Link>\n    <Learn-More-URL></Learn-More-URL>\n
+        \   <Industry>Telecommunications</Industry>\n    <Body>As part of the Latin
+        America Subsea Fiber Optic Cable Reverse Trade Mission, the U.S. Trade and
+        Development Agency is hosting a Business Briefing for U.S. companies on Wednesday,
+        March 4, 2020 at 9:00 AM at USTDA's Business Center in Arlington, VA. The
+        Briefing will connect U.S. companies with decision-makers from Chile, Argentina
+        and Ecuador. Attending U.S. companies will learn about upcoming subsea cable
+        and other information, communications and technology (ICT) project opportunities
+        in Chile, Argentina, and Ecuador and have the opportunity to meet one-on-one
+        with the participating decision-makers, including representatives from Chile\u2019s
+        Undersecretariat of Telecommunications (Subtel). Areas of interest include
+        cable system design, manufacturing, installation, and regulation as well as
+        the technologies, services, and financing mechanisms to support project development
+        and implementation. Other key areas of interest include 5G technologies, data
+        centers, and cybersecurity technologies.\r\n\r\nTuatara Group (tuataragroup.com)
+        is organizing this event on behalf of USTDA. For further information, please
+        contact Pamela Peseux by email at peseux@tuataragroup.com or by phone at +1
+        (301) 335-1725.\r\n</Body>\n    <Venue-1>Arlington, VA</Venue-1>\n    <City-1></City-1>\n
+        \   <State-1></State-1>\n    <Zip-1></Zip-1>\n    <Country-1></Country-1>\n
+        \   <Venue-2></Venue-2>\n    <City-2></City-2>\n    <State-2></State-2>\n
+        \   <Zip-2></Zip-2>\n    <Country-2></Country-2>\n    <Venue-3></Venue-3>\n
+        \   <City-3></City-3>\n    <State-3></State-3>\n    <Zip-3></Zip-3>\n    <Country-3></Country-3>\n
+        \   <Registration-Title>Business Briefing:  Opportunities in Latin American
+        Subsea Cable and ICT Projects  </Registration-Title>\n    <Cost-></Cost->\n
+        \   <Cost-Currency>USD</Cost-Currency>\n    <First-Name></First-Name>\n    <Last-Name></Last-Name>\n
+        \   <Post></Post>\n    <Person-Title></Person-Title>\n    <Phone></Phone>\n
+        \   <Email></Email>\n  </node>\n  <node>\n    <Title>Access Africa Reverse
+        Trade Mission on Digital Infrastructure</Title>\n    <Start-Date>03/14/2020</Start-Date>\n
+        \   <End-Date>03/21/2020</End-Date>\n    <Start-Time>12:02 pm</Start-Time>\n
+        \   <End-Time>12:02 pm</End-Time>\n    <Registration-Link></Registration-Link>\n
+        \   <Learn-More-URL></Learn-More-URL>\n    <Industry>Telecommunications</Industry>\n
+        \   <Body>USTDA is hosting a delegation from South Africa, Ethiopia, and Kenya
+        to convene leading U.S. providers of technologies and services that can facilitate
+        digital infrastructure development in these three countries. The visit will
+        familiarize representatives from both public and private sectors with the
+        latest U.S. innovations and services in the ICT sector.\r\n\r\nThe visit will
+        provide excellent opportunities for U.S. companies and Access Africa partners
+        to meet with delegates, showcase their technologies and solutions, and learn
+        more about project opportunities in South Africa, Ethiopia, and Kenya. As
+        part of the itinerary, USTDA will also host a business briefing in Washington,
+        D.C. on Tuesday, March 17th.\r\n\r\nThe Business Council for International
+        Understanding (BCIU) is organizing the event on behalf of USTDA. For more
+        information about how your company can participate, please contact Lauren
+        Krauth at lkrauth@bciu.org.\r\n</Body>\n    <Venue-1>Washington, D.C.</Venue-1>\n
+        \   <City-1></City-1>\n    <State-1></State-1>\n    <Zip-1></Zip-1>\n    <Country-1></Country-1>\n
+        \   <Venue-2>Bay Area, CA</Venue-2>\n    <City-2></City-2>\n    <State-2></State-2>\n
+        \   <Zip-2></Zip-2>\n    <Country-2></Country-2>\n    <Venue-3></Venue-3>\n
+        \   <City-3></City-3>\n    <State-3></State-3>\n    <Zip-3></Zip-3>\n    <Country-3></Country-3>\n
+        \   <Registration-Title>Access Africa Reverse Trade Mission on Digital Infrastructure</Registration-Title>\n
+        \   <Cost-></Cost->\n    <Cost-Currency>USD</Cost-Currency>\n    <First-Name></First-Name>\n
+        \   <Last-Name></Last-Name>\n    <Post></Post>\n    <Person-Title></Person-Title>\n
+        \   <Phone></Phone>\n    <Email></Email>\n  </node>\n  <node>\n    <Title>Reverse
+        Trade Mission: West Africa Customs Modernization and Trade Facilitation </Title>\n
+        \   <Start-Date>03/14/2020</Start-Date>\n    <End-Date>03/25/2020</End-Date>\n
+        \   <Start-Time>1:49 pm</Start-Time>\n    <End-Time>1:49 pm</End-Time>\n    <Registration-Link></Registration-Link>\n
+        \   <Learn-More-URL></Learn-More-URL>\n    <Industry>Aviation</Industry>\n
+        \   <Body>USTDA is hosting delegations from Nigeria, Ghana and Cote d\u2019Ivoire
+        to meet with leading U.S. providers that can facilitate customs technology
+        and best practices in these countries. The visit will also familiarize representatives
+        from customs, port and aviation authorities with the latest U.S. innovations
+        and services in the customs sector. The visit further supports the 2017 Security
+        Government Initiative Joint Country Action Plan currently underway by the
+        U.S. Customs and Border Protection in Ghana. \r\n\r\nU.S. companies will also
+        have opportunities to meet with delegates, showcase their technologies and
+        solutions, and learn more about project opportunities in Nigeria, Ghana and
+        Cote d\u2019Ivoire. As part of the itinerary, USTDA will host a business briefing
+        in Washington, D.C. on Wednesday, March 18th.\r\n\r\nFutron Aviation is organizing
+        the event on behalf of USTDA. For more information about how your company
+        can participate, please contact Ed Shea at eshea@futronaviation.com.\r\n</Body>\n
+        \   <Venue-1>Washington, D.C.</Venue-1>\n    <City-1></City-1>\n    <State-1></State-1>\n
+        \   <Zip-1></Zip-1>\n    <Country-1></Country-1>\n    <Venue-2>Boston, MA</Venue-2>\n
+        \   <City-2></City-2>\n    <State-2></State-2>\n    <Zip-2></Zip-2>\n    <Country-2></Country-2>\n
+        \   <Venue-3>San Diego, CA</Venue-3>\n    <City-3></City-3>\n    <State-3></State-3>\n
+        \   <Zip-3></Zip-3>\n    <Country-3></Country-3>\n    <Registration-Title>Reverse
+        Trade Mission: West Africa Customs Modernization and Trade Facilitation </Registration-Title>\n
+        \   <Cost-></Cost->\n    <Cost-Currency>USD</Cost-Currency>\n    <First-Name></First-Name>\n
+        \   <Last-Name></Last-Name>\n    <Post></Post>\n    <Person-Title></Person-Title>\n
+        \   <Phone></Phone>\n    <Email></Email>\n  </node>\n  <node>\n    <Title>Business
+        Briefing: Access Africa Reverse Trade Mission on Digital Infrastructure</Title>\n
+        \   <Start-Date>03/17/2020</Start-Date>\n    <End-Date>03/17/2020</End-Date>\n
+        \   <Start-Time>4:53 pm</Start-Time>\n    <End-Time>4:53 pm</End-Time>\n    <Registration-Link></Registration-Link>\n
+        \   <Learn-More-URL></Learn-More-URL>\n    <Industry>Telecommunications</Industry>\n
+        \   <Body>As part of the Access Africa Reverse Trade Mission on Digital Infrastructure,
+        USTDA is hosting a business briefing for U.S. companies to meet with decision-makers
+        from the ICT sector in Ethiopia, Kenya, and South Africa. The event will allow
+        U.S. company participants to meet one-on-one with delegates to showcase their
+        company\u2019s technologies and expertise in digital infrastructure and learn
+        about upcoming ICT opportunities in these markets. Registration is required.\r\n\r\nBCIU
+        is organizing this visit on behalf of USTDA.  For further information regarding
+        registration, please contact Julie Hanash via email at jhanash@bciu.org or
+        via phone at (212) 490-0460.\r\n</Body>\n    <Venue-1>Washington, D.C.</Venue-1>\n
+        \   <City-1></City-1>\n    <State-1></State-1>\n    <Zip-1></Zip-1>\n    <Country-1></Country-1>\n
+        \   <Venue-2></Venue-2>\n    <City-2></City-2>\n    <State-2></State-2>\n
+        \   <Zip-2></Zip-2>\n    <Country-2></Country-2>\n    <Venue-3></Venue-3>\n
+        \   <City-3></City-3>\n    <State-3></State-3>\n    <Zip-3></Zip-3>\n    <Country-3></Country-3>\n
+        \   <Registration-Title>Business Briefing: Access Africa Reverse Trade Mission
+        on Digital Infrastructure</Registration-Title>\n    <Cost-></Cost->\n    <Cost-Currency>USD</Cost-Currency>\n
+        \   <First-Name></First-Name>\n    <Last-Name></Last-Name>\n    <Post></Post>\n
+        \   <Person-Title></Person-Title>\n    <Phone></Phone>\n    <Email></Email>\n
+        \ </node>\n  <node>\n    <Title>Business Briefing: West Africa Customs Modernization
+        and Trade Facilitation</Title>\n    <Start-Date>03/18/2020</Start-Date>\n
+        \   <End-Date>03/18/2020</End-Date>\n    <Start-Time>9:00 am</Start-Time>\n
+        \   <End-Time></End-Time>\n    <Registration-Link></Registration-Link>\n    <Learn-More-URL></Learn-More-URL>\n
+        \   <Industry>Aviation</Industry>\n    <Body>As part of the West Africa Customs
+        Modernization and Trade Facilitation Reverse Trade Mission, USTDA is hosting
+        a Business Briefing for U.S. companies to meet with decision-makers from Nigeria,
+        Ghana, and Cote d\u2019Ivoire\u2019s customs, port and aviation authorities.
+        The event will allow U.S. company participants to meet one-on-one with delegates
+        to showcase their company\u2019s technologies and expertise in the customs
+        sector. Registration is required.\r\n\r\nFutron Aviation is organizing the
+        event on behalf of USTDA. For more information about how your company can
+        participate, please contact Ed Shea at eshea@futronaviation.com.\r\n\r\nClick
+        here for the event flyer and here to register. \r\n</Body>\n    <Venue-1>Arlington,
+        VA</Venue-1>\n    <City-1></City-1>\n    <State-1></State-1>\n    <Zip-1></Zip-1>\n
+        \   <Country-1></Country-1>\n    <Venue-2></Venue-2>\n    <City-2></City-2>\n
+        \   <State-2></State-2>\n    <Zip-2></Zip-2>\n    <Country-2></Country-2>\n
+        \   <Venue-3></Venue-3>\n    <City-3></City-3>\n    <State-3></State-3>\n
+        \   <Zip-3></Zip-3>\n    <Country-3></Country-3>\n    <Registration-Title>Business
+        Briefing: West Africa Customs Modernization and Trade Facilitation</Registration-Title>\n
+        \   <Cost-></Cost->\n    <Cost-Currency>USD</Cost-Currency>\n    <First-Name></First-Name>\n
+        \   <Last-Name></Last-Name>\n    <Post></Post>\n    <Person-Title></Person-Title>\n
+        \   <Phone></Phone>\n    <Email></Email>\n  </node>\n</nodes>\n"
+    headers:
+      Cache-Control:
+      - max-age=60, must-revalidate
+      Connection:
+      - Keep-Alive
+      Content-Language:
+      - en
+      Content-Type:
+      - text/xml;charset=UTF-8
+      Date:
+      - Thu, 13 Feb 2020 22:37:55 GMT
+      Expires:
+      - Sun, 19 Nov 1978 05:00:00 GMT
+      Keep-Alive:
+      - timeout=15, max=100
+      P3P:
+      - CP="CAO DSP CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi HISa OUR IND PHY ONL UNI
+        COM NAV INT CNT STA LOC GOV"
+      Server:
+      - Apache
+      Strict-Transport-Security:
+      - max-age=31536000
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Host
+      X-Content-Type-Options:
+      - nosniff
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+    status:
+      code: 200
+      message: OK
+version: 1
