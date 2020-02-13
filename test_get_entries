@@ -23,8 +23,7 @@ interactions:
         \ <channel>\n    <title>USTDA Events</title>\n    <link>https://ustda.gov/events/feed</link>\n
         \   <description></description>\n    <language>en</language>\n     <atom:link
         href=\"https://ustda.gov/events/feed\" rel=\"self\" type=\"application/rss+xml\"
-        />\n      <item>\n    <title>Egypt Advanced Technologies for Onshore Exploration
-        and Production Reverse Trade Mission</title>\n    <link>https://ustda.gov/events/2020/middle-east-north-africa-europe-and-eurasia/egypt-advanced-technologies-onshore</link>\n
+        />\n      <item>\n    <title>Egypt Advanced Technologies for Onshore Exploration</title>\n    <link>https://ustda.gov/events/2020/middle-east-north-africa-europe-and-eurasia/</link>\n
         \   <description>&lt;strong&gt;Event Date:&lt;/strong&gt; February 15, 2020
         to February 28, 2020&lt;br&gt;\r\n&lt;strong&gt;Locations:&lt;/strong&gt;
         \r\n&lt;p&gt;U.S. Trade and Development Agency (USTDA) is hosting the&amp;nbsp;&lt;strong&gt;Egypt
@@ -51,9 +50,9 @@ interactions:
         Briefing: Egypt Advanced Technologies for Onshore Exploration and Production</title>\n
         \   <link>https://ustda.gov/events/2020/middle-east-north-africa-europe-and-eurasia/business-briefing-egypt-advanced</link>\n
         \   <description>&lt;strong&gt;Event Date:&lt;/strong&gt; February 20, 2020&lt;br&gt;\r\n&lt;strong&gt;Locations:&lt;/strong&gt;
-        \r\n&lt;p&gt;As part of the &lt;strong&gt;&lt;a href=&quot;https://ustda.gov/events/2020/middle-east-north-africa-europe-and-eurasia/egypt-advanced-technologies-onshore&quot;&gt;Egypt
+        \r\n&lt;p&gt;As part of the &lt;strong&gt;&lt;a href=&quot;https://ustda.gov/events/2020/middle-east-north-africa-europe-and-eurasia/&quot;&gt;Egypt
         Advanced Technologies for Onshore Exploration and Production&lt;/a&gt;&lt;strong&gt;&lt;a
-        href=&quot;https://ustda.gov/events/2020/middle-east-north-africa-europe-and-eurasia/egypt-advanced-technologies-onshore&quot;&gt;
+        href=&quot;https://ustda.gov/events/2020/middle-east-north-africa-europe-and-eurasia/&quot;&gt;
         Reverse Trade Mission&lt;/a&gt;,&lt;/strong&gt;&lt;/strong&gt; USTDA is hosting
         a business briefing for U.S. companies to meet with decision-makers from Egypt\u2019s
         Ministry of Petroleum and Mineral Resources and state-owned enterprises in
@@ -270,33 +269,17 @@ interactions:
   response:
     body:
       string: "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n<nodes>\n  <node>\n    <Title>Egypt
-        Advanced Technologies for Onshore Exploration and Production Reverse Trade
-        Mission</Title>\n    <Start-Date>02/15/2020</Start-Date>\n    <End-Date>02/28/2020</End-Date>\n
+        Advanced Technologies for Onshore Exploration</Title>\n    <Start-Date>02/15/2020</Start-Date>\n    <End-Date>02/28/2020</End-Date>\n
         \   <Start-Time>12:09 pm</Start-Time>\n    <End-Time>12:09 pm</End-Time>\n
         \   <Registration-Link></Registration-Link>\n    <Learn-More-URL></Learn-More-URL>\n
         \   <Industry>Traditional Energy &amp; Power</Industry>\n    <Body>U.S. Trade
-        and Development Agency (USTDA) is hosting the Egypt Advanced Technologies
-        for Onshore Exploration and Production Reverse Trade Mission, bringing senior
-        decision-makers from Egypt to the United States to meet with leading U.S.
-        suppliers of oil and gas exploration and production technologies.  The delegation
-        will include high-ranking officials from Egypt\u2019s Ministry of Petroleum
-        and Mineral Resources and state-owned enterprises in the petroleum sector.\r\n\r\nAs
-        part of the itinerary, USTDA will host a business briefing for U.S. companies
-        to learn about upcoming project opportunities on February 20th in Houston,
-        Texas. .U.S. companies will showcase their technologies and expertise to the
-        delegation as Egypt moves forward on its plans to modernize its oil and gas
-        sector. \r\n\r\nKoeppen, Elliott &amp; Associates, Ltd. is organizing this
-        visit on behalf of USTDA.  For further information regarding registration
-        and/or to arrange for a private meeting with the delegation, please contact
-        \ David Elliott, davidelliott@kealtd.com; or by text or phone at (757) 342-2149.
-        \r\n\r\nClick here for the event flyer. \r\n</Body>\n    <Venue-1>Houston,
+        and Development Agency (USTDA) is hosting\r\n</Body>\n    <Venue-1>Houston,
         TX</Venue-1>\n    <City-1></City-1>\n    <State-1></State-1>\n    <Zip-1></Zip-1>\n
         \   <Country-1></Country-1>\n    <Venue-2>San Francisco, CA</Venue-2>\n    <City-2></City-2>\n
         \   <State-2></State-2>\n    <Zip-2></Zip-2>\n    <Country-2></Country-2>\n
         \   <Venue-3></Venue-3>\n    <City-3></City-3>\n    <State-3></State-3>\n
         \   <Zip-3></Zip-3>\n    <Country-3></Country-3>\n    <Registration-Title>Egypt
-        Advanced Technologies for Onshore Exploration and Production Reverse Trade
-        Mission</Registration-Title>\n    <Cost-></Cost->\n    <Cost-Currency>USD</Cost-Currency>\n
+        Advanced Technologies for Onshore Exploration</Registration-Title>\n    <Cost-></Cost->\n    <Cost-Currency>USD</Cost-Currency>\n
         \   <First-Name></First-Name>\n    <Last-Name></Last-Name>\n    <Post></Post>\n
         \   <Person-Title></Person-Title>\n    <Phone></Phone>\n    <Email></Email>\n
         \ </node>\n  <node>\n    <Title>Business Briefing: Egypt Advanced Technologies
