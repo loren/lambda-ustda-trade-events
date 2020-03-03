@@ -1,5 +1,6 @@
 [![CircleCI](https://circleci.com/gh/GovWizely/lambda-ustda-trade-events/tree/master.svg?style=svg)](https://circleci.com/gh/GovWizely/lambda-ustda-trade-events/tree/master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/309c971db2f097b4c032/maintainability)](https://codeclimate.com/github/GovWizely/lambda-ustda-trade-events/maintainability)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=GovWizely/lambda-ustda-trade-events)](https://dependabot.com)
 
 # USTDA Trade Events Lambda
 
