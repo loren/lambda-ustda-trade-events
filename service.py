@@ -1,24 +1,34 @@
 # -*- coding: utf-8 -*-
 import datetime as dt
 import json
+import logging
 import re
 import xml.etree.ElementTree as ET
 
 import boto3
 import requests
+from botocore.exceptions import ClientError
 
+JSON = "application/json"
+BUCKET = "trade-events"
 KEY = "ustda.json"
 XML_ENDPOINT = "https://www.ustda.gov/api/events/xml"
 RSS_ENDPOINT = "https://www.ustda.gov/events/feed"
-S3_CLIENT = boto3.resource("s3")
+S3_CLIENT = boto3.client("s3")
 
 
 def handler(event, context):
-    entries = get_entries()
-    S3_CLIENT.Object("trade-events", KEY).put(
-        Body=json.dumps(entries), ContentType="application/json"
-    )
-    return f"Uploaded {KEY} file with {len(entries)} trade events"
+    response = True
+    try:
+        entries = get_entries()
+        S3_CLIENT.put_object(
+            Bucket=BUCKET, Key=KEY, Body=json.dumps(entries), ContentType=JSON
+        )
+        print(f"✅ Uploaded {KEY} file with {len(entries)} locations")
+    except (ClientError, ET.ParseError) as e:
+        logging.error(e)
+        response = False
+    return response
 
 
 def get_entries():
