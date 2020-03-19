@@ -3,11 +3,11 @@ import datetime as dt
 import json
 import logging
 import re
+import xml.etree.ElementTree as ET
 
 import boto3
 import requests
 from botocore.exceptions import ClientError
-import xml.etree.ElementTree as ET
 
 JSON = "application/json"
 BUCKET = "trade-events"
