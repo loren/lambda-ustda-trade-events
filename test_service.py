@@ -1,6 +1,8 @@
+import xml
+
 import vcr
 
-from service import get_entries
+from service import get_entries, handler
 
 
 @vcr.use_cassette()
@@ -36,3 +38,9 @@ def test_get_entries():
         "source_industry": ["Traditional Energy & Power"],
     }
     assert entries[0] == expected_entry
+
+
+def test_handler_handles_parse_error(mocker):
+    """Ensures any XML parsing issues from garbage input get ignored"""
+    mocker.patch('service.get_entries', side_effect=xml.etree.ElementTree.ParseError)
+    assert handler(None, None) is False
